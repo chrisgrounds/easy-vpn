@@ -8,6 +8,8 @@ Update the variables in `./vars` and then run `./install.sh`
 
 ### Vars
 
-VPS_PEM: the certificate file to access your server
-IP: the IP address of your server
-USER: the username to connect to your server
+|key|value|
+|---|---|
+|VPS_PEM|the certificate file to access your server|
+|IP|the IP address of your server|
+|USER|the username to connect to your server|
